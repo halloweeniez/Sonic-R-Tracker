@@ -1,0 +1,348 @@
+[
+	{	
+        "name": "Resort Island BS",
+		"chest_unopened_img": "images/RNotGet.png",
+        "chest_opened_img": "images/RGet.png",
+        "children": [
+			{
+                "name": "Resort Island Balloon 1",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 300,
+                        "y": 400,
+						"size": 15
+                    }
+				]	
+            },
+			{
+                "name": "Resort Island Balloon 2",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 275,
+                        "y": 480,
+						"size": 15
+                    }
+				]
+            },
+			{
+                "name": "Resort Island Balloon 3",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 120,
+                        "y": 480,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 4",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 180,
+                        "y": 355,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 5",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 20,
+                        "y": 345,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 6",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 6",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 70,
+                        "y": 230,
+						"size": 15
+                    }
+                ]
+            },
+			{   "name": "Resort Island Balloon 7",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 7",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 335,
+                        "y": 190,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 8",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 8",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 350,
+                        "y": 330,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 9",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 9",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 430,
+                        "y": 250,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 10",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 10",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 565,
+                        "y": 40,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 11",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 11",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 645,
+                        "y": 95,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 12",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 12",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 720,
+                        "y": 200,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 13",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 13",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 570,
+                        "y": 225,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 14",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 520,
+                        "y": 290,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 15",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 15",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 715,
+                        "y": 350,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 16",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 16",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 650,
+                        "y": 440,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Balloon 17",
+                "access_rules": [ 
+			        "RIBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 17",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island_BS",
+                        "x": 520,
+                        "y": 500,
+						"size": 15
+                    }
+                ]
+            }           
+        ]
+    }
+]

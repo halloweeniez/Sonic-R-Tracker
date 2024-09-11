@@ -1,0 +1,239 @@
+[
+    {
+        "name": "Resort Island",
+		"chest_unopened_img": "images/RNotGet.png",
+        "chest_opened_img": "images/RGet.png",
+        "children": [
+            {
+                "name": "Resort Island Token 1",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Token 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 86,
+                        "y": 392,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Token 2",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Token 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 68,
+                        "y": 255,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Token 3",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Token 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 298,
+                        "y": 130,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Token 4",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Token 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 502,
+                        "y": 34,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Token 5",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Token 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 699,
+                        "y": 418,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island Blue Emerald",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "Reasort Island Emerald",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 713,
+                        "y": 279,
+						"size": 15
+                    }
+                ]
+			},
+			{
+                "name": "Resort Island Metal Sonic Race",
+                "access_rules": [   
+					"$HasEnoughToken|RI"
+                ],
+                "sections": [
+                    {
+                        "name": "Metal Sonic",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 340,
+                        "y": 460,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island 1st Place",
+                "access_rules": [   
+                ],
+                "sections": [
+                    {
+                        "name": "1st Place",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 340,
+                        "y": 430,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island 20 Ring Gate",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "20 Ring Gate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 245,
+                        "y": 192,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Resort Island 50 Ring Gate",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "50 Ring Gate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 662,
+                        "y": 223,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Item Panel",
+                "access_rules": [                    
+                ],
+                "sections": [
+                    {
+                        "name": "5 Ring",
+                        "item_count": 1
+                    },
+					{
+                        "name": "10 Ring",
+                        "item_count": 1
+                    },
+					{
+                        "name": "20 Ring",
+                        "item_count": 1
+                    },
+					{
+                        "name": "Fleet Feet",
+                        "item_count": 1
+                    },
+					{
+                        "name": "Water Shield",
+                        "item_count": 1
+                    },
+					{
+                        "name": "Lightning Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resort_Island",
+                        "x": 550,
+                        "y": 125,
+						"size": 15
+                    }
+                ]
+            }
+        ]
+    }
+]

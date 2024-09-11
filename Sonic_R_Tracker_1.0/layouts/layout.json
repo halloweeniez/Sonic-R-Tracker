@@ -1,0 +1,123 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#212121",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "Items"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Resort Island",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Resort_Island"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Radical City",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Radical_City"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Regal Ruin",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                   "Regal_Ruin"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Reactive Factory",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Reactive_Factory"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Radiant Emerald",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Radiant_Emerald"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Resort Island BS",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Resort_Island_BS"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Radical City BS",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Radical_City_BS"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Regal Ruin BS",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Regal_Ruin_BS"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Reactive Factory BS",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Reactive_Factory_BS"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Radiant Emerald BS",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Radiant_Emerald_BS"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
