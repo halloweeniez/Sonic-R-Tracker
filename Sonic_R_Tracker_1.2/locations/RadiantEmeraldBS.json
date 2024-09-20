@@ -1,0 +1,349 @@
+[	
+	{
+        "name": "Radiant Emerald BS",
+		"chest_unopened_img": "images/RNotGet.png",
+        "chest_opened_img": "images/RGet.png",
+        "children": [		
+			{
+                "name": "Radiant Emerald Balloon 1",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 470,
+                        "y": 300,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 2",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 500,
+                        "y": 320,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 3",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 600,
+                        "y": 280,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 4",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 715,
+                        "y": 300,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 5",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 635,
+                        "y": 335,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 6",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 6",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 455,
+                        "y": 415,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 7",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 7",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 430,
+                        "y": 380,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 8",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 8",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 465,
+                        "y": 465,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 9",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 9",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 240,
+                        "y": 360,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 10",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 10",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 320,
+                        "y": 240,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 11",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 11",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 380,
+                        "y": 200,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 12",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 12",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 330,
+                        "y": 125,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 13",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 13",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 215,
+                        "y": 110,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 14",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 155,
+                        "y": 155,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 15",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 15",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 230,
+                        "y": 240,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 16",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 16",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 205,
+                        "y": 375,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Radiant Emerald Balloon 17",
+                "access_rules": [  
+					"REBSStageUnlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 17",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Radiant_Emerald_BS",
+                        "x": 175,
+                        "y": 355,
+						"size": 15
+                    }
+                ]
+            }
+		]	
+	}
+]	

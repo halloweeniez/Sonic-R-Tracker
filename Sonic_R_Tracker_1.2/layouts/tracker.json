@@ -1,0 +1,10 @@
+﻿{
+    "tracker_default": {
+        "type": "layout",
+        "key": "item_tracker"
+    },
+    "tracker_broadcast": {
+        "type": "layout",
+        "key": "broadcast_tracker"
+    }
+}

@@ -1,0 +1,249 @@
+[	
+	{
+        "name": "Reactive Factory",
+		"chest_unopened_img": "images/RNotGet.png",
+        "chest_opened_img": "images/RGet.png",
+        "children": [		
+			{
+                "name": "Reactive Factory Token 1",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Token 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 50,
+                        "y": 140,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Token 2",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Token 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 230,
+                        "y": 120,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Token 3",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Token 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 515,
+                        "y": 160,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Token 4",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Token 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 390,
+                        "y": 555,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Token 5",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Token 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 365,
+                        "y": 370,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Red Emerald",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                 ],
+                "sections": [
+                    {
+                        "name": "Red Emerald",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 295,
+                        "y": 275,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory White Emerald",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "White Emerald",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 605,
+                        "y": 475,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Metal Knuckles Race",
+                "access_rules": [ 
+			        "RFStageUnlock, $HasEnoughToken|RF" 
+                ],
+                "sections": [
+                    {
+                        "name": "Metal Knuckles",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 225,
+                        "y": 360,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory 1st Place",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "1st Place",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 205,
+                        "y": 360,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory 20 Ring Gate",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "20 Ring Gate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 365,
+                        "y": 390,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory 50 Ring Gate 1",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "50 Ring Gate 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 315,
+                        "y": 290,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory 50 Ring Gate 2",
+                "access_rules": [ 
+			        "RFStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "50 Ring Gate 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory",
+                        "x": 430,
+                        "y": 100,
+						"size": 15
+                    }
+                ]
+            }
+		]
+	}
+]	

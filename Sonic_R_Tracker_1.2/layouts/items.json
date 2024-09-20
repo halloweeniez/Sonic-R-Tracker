@@ -1,0 +1,49 @@
+{
+    "Items": {
+        "type": "itemgrid",
+        "item_margin": "20, 20",
+        "h_alignment": "center",
+		"item_height": 46,
+        "item_width": 46,
+        "rows": [
+            [
+                "RIToken",
+                "RCToken",
+                "RRToken",
+                "RFToken"
+            ],
+            [
+                "RIStageUnlock",
+                "RCStageUnlock",
+                "RRStageUnlock",
+                "RFStageUnlock",
+                "REStageUnlock"
+            ],
+            [
+                "RIBSStageUnlock",
+                "RCBSStageUnlock",
+                "RRBSStageUnlock",
+                "RFBSStageUnlock",
+                "REBSStageUnlock"
+            ],
+            [
+                "SSCharacter",
+                "MSCharacter",
+                "TDCharacter",
+                "ERCharacter",
+                "MKCharacter"
+            ],
+            [
+                "BKey",
+                "GKey",
+                "PKey",
+                "YKey"
+            ],
+            [
+                "OKey",
+                "RKey",
+                "WKey"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,349 @@
+[	
+	{
+        "name": "Reactive Factory BS",
+		"chest_unopened_img": "images/RNotGet.png",
+        "chest_opened_img": "images/RGet.png",
+        "children": [		
+			{
+                "name": "Reactive Factory Balloon 1",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 180,
+                        "y": 390,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 2",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 355,
+                        "y": 510,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 3",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 370,
+                        "y": 440,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 4",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 580,
+                        "y": 425,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 5",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 520,
+                        "y": 460,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 6",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 6",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 390,
+                        "y": 440,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 7",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 7",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 560,
+                        "y": 560,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 8",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 8",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 720,
+                        "y": 400,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 9",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 9",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 605,
+                        "y": 300,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 10",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 10",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 510,
+                        "y": 175,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 11",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 11",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 280,
+                        "y": 165,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 12",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 12",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 375,
+                        "y": 200,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 13",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 13",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 305,
+                        "y": 90,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 14",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 325,
+                        "y": 90,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 15",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 15",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 235,
+                        "y": 165,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 16",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 16",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 150,
+                        "y": 230,
+						"size": 15
+                    }
+                ]
+            },
+			{
+                "name": "Reactive Factory Balloon 17",
+                "access_rules": [ 
+			        "RFBSStageUnlock" 
+                ],
+                "sections": [
+                    {
+                        "name": "Balloon 17",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Reactive_Factory_BS",
+                        "x": 10,
+                        "y": 180,
+						"size": 15
+                    }
+                ]
+            }
+		]	
+	}
+]	
